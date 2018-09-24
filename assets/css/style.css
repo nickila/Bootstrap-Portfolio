@@ -1,0 +1,22 @@
+
+body {
+    background-image: url(../images/images.jpeg);   
+}
+
+h2 {
+    color: white;
+    
+}
+
+h4 {
+    color: #343a40;
+    background-color: white;
+    padding-left: 20px;
+}
+p {
+    background-color: white;
+}
+
+img {
+    width: 300px;
+}
