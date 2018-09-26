@@ -3,20 +3,93 @@ body {
     background-image: url(../images/images.jpeg);   
 }
 
-h2 {
-    color: white;
-    
-}
+
 
 h4 {
     color: #343a40;
     background-color: white;
     padding-left: 20px;
+    margin-top:20px;
 }
 p {
+    color: #53595f;
     background-color: white;
+    padding-left: 25px;
+    padding-right: 20px;
+    margin-top: 20px;
 }
 
 img {
+    width: 250px;
+   
+}
+
+.profilePic {
     width: 300px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-right: 15px;
+}
+
+footer {
+    color: rgba(255,255,255,.5);
+}
+h6 {
+    text-align: center;
+    
+    color: white;
+    margin: 15px;
+}
+.footerColor {
+    background-color: #212529;
+    position: fixed;
+    bottom: 0;
+    
+}
+.row {
+    margin: 0 auto;
+}
+.whiteBar1 {
+    background-color: white;
+    color: white;
+}
+
+.darkBar1 {
+    background-color: #212529;
+    color: white;
+}
+a {
+    color: #97999b;
+    
+}
+a:hover {
+    text-decoration: none;
+    color: #70757a;
+}
+.links {
+    padding-top: 65px;
+    text-align: right;
+    
+}
+.noPadding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.whiteBar2 {
+    background-color: white;
+    color: #d3d3d3;
+
+}
+
+.mainStuff {
+    margin-bottom: 150px;
+    margin-top: 10px;
+}
+
+#imagesInRow {
+    text-align: center;
+}
+.display-3 {
+    padding-left: 10px;
 }
