@@ -8,7 +8,7 @@ body {
 h4 {
     color: #343a40;
     background-color: white;
-    padding-left: 20px;
+    
     margin-top:20px;
 }
 p {
@@ -92,4 +92,27 @@ a:hover {
 }
 .display-3 {
     padding-left: 10px;
+}
+
+.form-group {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+textarea.form-control {
+    height: 300px;
+
+}
+
+::placeholder {
+    color: #ff1751;
+}
+
+.gifLink {
+    text-align: right;
+}
+
+hr {
+    margin-top: 0;
 }
