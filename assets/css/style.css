@@ -46,6 +46,22 @@ h6 {
     bottom: 0;
     
 }
+
+.footerColor1 {
+    background-color: #53595f;
+    position: fixed;
+    bottom: 45px;
+    height: 10px;
+
+}
+
+.headerColor {
+    background-color: #d3d3d3;
+    position: fixed;
+    top: 90px;
+    height: 5px;
+
+}
 .row {
     margin: 0 auto;
 }
@@ -115,4 +131,31 @@ textarea.form-control {
 
 hr {
     margin-top: 0;
+}
+.description {
+    background-color: rgba(74, 111, 127, .5);
+    color: white;
+    width: 100%;
+}
+
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
+    margin-left: 2%;
+    padding-left: -15px;
+    padding-right: -15px;
+    
+    
+}
+
+.description {
+    background-color: rgba(74, 111, 127, .5);
+    color: white;
+    
 }
