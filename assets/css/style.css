@@ -1,9 +1,6 @@
-
 body {
     background-image: url(../images/images.jpeg);   
 }
-
-
 
 h4 {
     color: rgb(196, 41, 41);
@@ -11,6 +8,7 @@ h4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-top:20px;
 }
+
 p {
     color: #53595f;
     background-color: white;
@@ -22,7 +20,6 @@ p {
 
 img {
     width: 250px;
-   
 }
 
 #profilePic {
@@ -35,26 +32,25 @@ img {
 footer {
     color: rgba(255,255,255,.5);
 }
+
 h6 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
     margin: 15px;
 }
+
 .footerColor {
     background-color: rgb(48, 82, 97);
     position: fixed;
-    bottom: 0;
-    
+    bottom: 0;  
 }
-
 
 .footerColor1 {
     background-color: #4A6F7F;
     position: fixed;
     bottom: 45px;
     height: 10px;
-
 }
 
 .headerColor {
@@ -62,34 +58,31 @@ h6 {
     position: absolute;
     top: 90px;
     height: 5px;
-
 }
+
 .row {
     margin: auto;
 }
+
 .whiteBar1 {
     background-color: white;
     color: white;
 }
 
-/*.darkBar1 {
-    background-color: #4A6F7F;
-    color: white; 
-}*/
 a {
-    color: rgb(196, 41, 41);
-    
+    color: rgb(196, 41, 41);   
 }
+
 a:hover {
     text-decoration: none;
     color: rgb(236, 84, 84);
 }
+
 .links {
     padding-top: 30px;
-    text-align: right;
-    
-    
+    text-align: right;   
 }
+
 .noPadding {
     padding-left: 0;
     padding-right: 0;
@@ -98,7 +91,6 @@ a:hover {
 .whiteBar2 {
     background-color: white;
     color: #d3d3d3;
-
 }
 
 .mainStuff {
@@ -109,6 +101,7 @@ a:hover {
 #imagesInRow {
     text-align: center;
 }
+
 h1 {
     font-size: 3rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -127,11 +120,10 @@ h1 {
     padding-left: 15px;
     padding-right: 15px;
 }
+
 textarea.form-control {
     height: 300px;
-
 }
-
 
 .gifLink {
     text-align: right;
@@ -140,30 +132,27 @@ textarea.form-control {
 hr {
     margin-top: 0;
 }
+
 .description {
     background-color: rgba(74, 111, 127, .5);
     color: white;
     width: 100%;
 }
-
 
 .caption {
     position: absolute;
-    width: 100%;
-    
-    
+    width: 100%;   
 }
+
 .img-thumbnail {
     margin-right: auto;
     margin-left: auto;
-    margin-top: 30px;
-    
+    margin-top: 30px;    
 }
+
 .description {
     background-color: rgba(74, 111, 127, .5);
-    color: white;
-    
-    
+    color: white;   
 }
 
 .captionT {
@@ -174,12 +163,15 @@ hr {
     padding-left: -15px;
     padding-right: -15px;
 }
+
 .whiteB {
     background-color: white;
 }
+
 .justify-content-around {
     border-bottom: solid rgb(114, 156, 173) 5px;
 }
+
 .thumbnail {
     position: relative;
 }
@@ -188,6 +180,5 @@ hr {
     position: absolute;
     top: 70%;
     left: 0;
-    width: 100%;
-    
+    width: 100%; 
 }
