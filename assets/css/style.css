@@ -14,8 +14,8 @@ h4 {
 p {
     color: #53595f;
     background-color: white;
-    padding-left: 25px;
-    padding-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     margin-top: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -25,7 +25,7 @@ img {
    
 }
 
-.profilePic {
+#profilePic {
     width: 300px;
     margin-left: 20px;
     margin-top: 30px;
@@ -42,7 +42,7 @@ h6 {
     margin: 15px;
 }
 .footerColor {
-    background-color: #4A6F7F;
+    background-color: rgb(48, 82, 97);
     position: fixed;
     bottom: 0;
     
@@ -50,7 +50,7 @@ h6 {
 
 
 .footerColor1 {
-    background-color: #53595f;
+    background-color: #4A6F7F;
     position: fixed;
     bottom: 45px;
     height: 10px;
@@ -149,11 +149,6 @@ hr {
 
 .caption {
     position: absolute;
-    bottom: 10%;
-    
-    margin-left: .5%;
-    padding-left: 10px;
-    padding-right: 10px;
     width: 100%;
     
     
